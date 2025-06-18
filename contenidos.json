@@ -1,0 +1,54 @@
+
+{
+  "1.1": {
+    "titulo": "Commit",
+    "contenido": [
+      { "tipo": "p", "texto": "Un commit es una captura del estado actual del proyecto." },
+      { "tipo": "img", "src": "img/contenido/commit.jpg" },
+      { "tipo": "p", "texto": "Ayuda a registrar cambios y su historial." },
+      {
+        "tipo": "ul",
+        "items": [
+          "Elemento A",
+          "Elemento B",
+          "Elemento C"
+        ]
+      },
+      {
+        "tipo": "ol",
+        "items": [
+          "Paso 1",
+          "Paso 2",
+          "Paso 3"
+        ]
+      },
+      {
+        "tipo": "code",
+        "texto": "console.log('Hola mundo');"
+      },
+      {
+        "tipo": "quote",
+        "texto": "La programación no se trata de lo que sabes, sino de lo que puedes descubrir. – Chris Pine"
+      }
+    ]
+  },
+  "1.2": {
+    "titulo": "Branch",
+    "contenido": [
+      { "tipo": "p", "texto": "Una rama permite desarrollar características por separado." }
+    ]
+  },
+  "2.1": {
+    "titulo": "Etiquetas HTML",
+    "contenido": [
+      { "tipo": "p", "texto": "Las etiquetas definen la estructura del contenido." },
+      { "tipo": "img", "src": "img/contenido/html1.png" }
+    ]
+  },
+  "2.2": {
+    "titulo": "Formularios",
+    "contenido": [
+      { "tipo": "p", "texto": "Permiten enviar datos a un servidor." }
+    ]
+  }
+}

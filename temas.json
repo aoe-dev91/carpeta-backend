@@ -1,0 +1,29 @@
+
+{
+  "temas": [
+    {
+      "codigo": "1",
+      "nombre": "Git y GitHub",
+      "imagen": "img/temas/git.png",
+      "subtemas": [
+        { "codigo": "1.1", "nombre": "Configuracion Inicial", "imagen": "img/subtemas/configuracion.jpg" },
+        { "codigo": "1.2", "nombre": "Repositorios Local y Remoto", "imagen": "img/subtemas/repositorios.jpg" },
+        { "codigo": "1.3", "nombre": "Flujo de Trabajo", "imagen": "img/subtemas/flujo.jpg" },
+        { "codigo": "1.4", "nombre": "Commit", "imagen": "img/subtemas/commit.jpg" },
+        { "codigo": "1.5", "nombre": "Branch (ramas)", "imagen": "img/subtemas/ramas.jpg" },
+        { "codigo": "1.6", "nombre": "Comandos", "imagen": "img/subtemas/comandos.jpg" },
+        { "codigo": "1.7", "nombre": "Pull Request & Issues", "imagen": "img/subtemas/issues.jpg" },
+        { "codigo": "1.8", "nombre": "Seguridad en el versionado", "imagen": "img/subtemas/seguridad.jpg" }
+      ]
+    },
+    {
+      "codigo": "2",
+      "nombre": "HTML",
+      "imagen": "img/temas/html.png",
+      "subtemas": [
+        { "codigo": "2.1", "nombre": "Etiquetas", "imagen": "img/subtemas/etiquetas.png" },
+        { "codigo": "2.2", "nombre": "Formularios", "imagen": "img/subtemas/forms.png" }
+      ]
+    }
+  ]
+}
