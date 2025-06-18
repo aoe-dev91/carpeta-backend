@@ -40,10 +40,10 @@
       { "tipo": "p", "texto": "Para crear un repositorio hay que posicionarse en la carpeta que lo va contener y escribir el comando git init, a partir de ese momento convertimos esa carpeta en un repositorio y empezamos a rastrear distintas versiones de los archivos de esa carpeta.  " },
      { "tipo": "p", "texto": "El repositorio de un proyecto se encarga de guardar distintas versiones del mismo y, tambien ramas paralelas que pueden o no ser sincronizadas con la principal, y esto es util para hacer pruebas cuando se hacen cambios en el codigo de algun archivo" },
      { "tipo": "p", "texto": "Los repositorios puede ser de 3 tipos: local(local)Cuando se crea en nuestra pc, remoto(remote)  cuando esta ubicado en la pagina de github y bifurkado(fork) cuando es forkeado de un perfil de github diferente al nuestro y desde donde nuestra copia va recibir actualizacion o a donde podremos hacer pull request" },
-    {
+  
       { "tipo": "img", "src": "img/contenido/imagen.jpg" }
     ]
-  }
+},
   "1.22": {
     "titulo": "Branch",
     "contenido": [
